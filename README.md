@@ -11,7 +11,7 @@ I really enjoy learning design and developement, as well as other languages.
 
 🌱 I’m currently learning Web Developement 
 
-![Alt text](6M8G.gif) / ![](6M8G.gif)
+![Alt text](6M8G.gif)
 
 
 
