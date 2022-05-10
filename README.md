@@ -3,7 +3,7 @@
 
 I am Abbass Jradi from Lebanon, and I really enjoy learning design and developement, as well as other languages.
 
-Skills: HTML/ CSS/ Python.
+Skills: HTML/ CSS/ Python/C++.
 
 
 
