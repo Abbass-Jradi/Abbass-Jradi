@@ -8,7 +8,6 @@ I really enjoy learning design and developement, as well as other languages.
 - Python
 - C/C++
 
-![](http://i.imgur.com/OUkLi.gif)
 
 🌱 I’m currently learning Web Developement 
 
