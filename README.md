@@ -1,10 +1,14 @@
-### Hi there 👋, Abbass Jradi
+### Hi there 👋, I am Abbass Jradi
 #### Design and Developement
 
 
 I am Abbass Jradi from Lebanon, and I really enjoy learning design and developement, as well as other languages.
 
-Skills: HTML/ CSS/ Python.
+##Skills and Experience:
+- HTML
+- CSS
+- Python
+
 
 
 🌱 I’m currently learning Web Developement 
