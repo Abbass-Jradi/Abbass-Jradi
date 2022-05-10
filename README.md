@@ -9,7 +9,7 @@ I really enjoy learning design and developement, as well as other languages.
 - C/C++
 
 
-🌱 I’m currently learning Web Developement 
+💻 I’m currently learning Web Developement.
 
 ![Alt text](6M8G.gif)
 
