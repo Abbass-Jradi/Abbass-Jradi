@@ -11,6 +11,9 @@ I really enjoy learning design and developement, as well as other languages.
 
 💻 I’m currently learning Web Developement.
 
+<img align="left" alt = "Abbass-Jradi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abbass-Jradi&show_icons=true&hide_border=true" />
+                                                           
+
 ![Alt text](6M8G.gif)
 
 
