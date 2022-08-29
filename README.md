@@ -5,6 +5,7 @@ I really enjoy learning design and developement, as well as other languages.
 #### Skills and Experience:
 - HTML
 - CSS
+- JavaScript
 - Python
 - C/C++
 
